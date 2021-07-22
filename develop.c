@@ -1,2 +1,2 @@
 
-variable =20; //master edit
+master =20;
