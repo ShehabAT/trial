@@ -1,5 +1,3 @@
 
-int develop(void)
-{
-  develop variable=10; // develop var
-}
+
+  develop =112; // develop var
